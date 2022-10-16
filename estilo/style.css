@@ -42,7 +42,7 @@ header > h1{
     padding-top: 50px;
     font-variant: small-caps;
     font-family: var(--font02);
-    font-size: 3vw;
+    font-size: 4vw;
 }
 header > p{
     padding-bottom: 50px;
@@ -60,7 +60,7 @@ section{
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--font03);
-    font-size: 1.9vw;
+    font-size: 2.2vw;
 }
 
 section.imagem{
